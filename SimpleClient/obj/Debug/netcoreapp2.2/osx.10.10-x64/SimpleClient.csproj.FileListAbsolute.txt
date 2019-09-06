@@ -1,0 +1,14 @@
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/libhostpolicy.dylib
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/libhostfxr.dylib
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.deps.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.runtimeconfig.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.runtimeconfig.dev.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.dll
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/bin/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.pdb
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.csprojAssemblyReference.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.csproj.CoreCompileInputs.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.AssemblyInfoInputs.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.AssemblyInfo.cs
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.dll
+/Users/Jack 1/Downloads/SimpleClient/SimpleClient/obj/Debug/netcoreapp2.2/osx.10.10-x64/SimpleClient.pdb

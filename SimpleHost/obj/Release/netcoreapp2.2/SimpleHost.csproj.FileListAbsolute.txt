@@ -1,0 +1,33 @@
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.deps.json
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.json
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.dev.json
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.dll
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.pdb
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csproj.CoreCompileInputs.cache
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfoInputs.cache
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfo.cs
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.dll
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.pdb
+/Users/Jack 1/Projects/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csprojAssemblyReference.cache
+/Users/build/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.deps.json
+/Users/build/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.json
+/Users/build/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.dev.json
+/Users/build/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.dll
+/Users/build/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.pdb
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csprojAssemblyReference.cache
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csproj.CoreCompileInputs.cache
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfoInputs.cache
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfo.cs
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.dll
+/Users/build/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.pdb
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.deps.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.runtimeconfig.dev.json
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.dll
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/bin/Release/netcoreapp2.2/SimpleHost.pdb
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csprojAssemblyReference.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.csproj.CoreCompileInputs.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfoInputs.cache
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.AssemblyInfo.cs
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.dll
+/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/Release/netcoreapp2.2/SimpleHost.pdb

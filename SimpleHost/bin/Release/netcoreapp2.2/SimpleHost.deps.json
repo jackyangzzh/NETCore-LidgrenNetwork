@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "cce3f3ba52b79a9604087eebf1dac8c8c650eea5"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SimpleHost/1.0.0": {
+        "dependencies": {
+          "Lidgren.Network.Core2": "1.0.0"
+        },
+        "runtime": {
+          "SimpleHost.dll": {}
+        }
+      },
+      "Lidgren.Network.Core2/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Lidgren.Network.Core.dll": {
+            "assemblyVersion": "2012.1.7.0",
+            "fileVersion": "2012.1.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleHost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lidgren.Network.Core2/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OfnlH2VrGYLh/vrc8Blzi3SH+lE8b3MI9JBap7b45S34rsgvXPQYPu0GtrL/40Ovnz5alvF1XWOUDGuow7CDmQ==",
+      "path": "lidgren.network.core2/1.0.0",
+      "hashPath": "lidgren.network.core2.1.0.0.nupkg.sha512"
+    }
+  }
+}

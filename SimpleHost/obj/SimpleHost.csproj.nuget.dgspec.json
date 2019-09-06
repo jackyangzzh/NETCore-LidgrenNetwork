@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Jack 1/Downloads/SimpleClient/SimpleHost/SimpleHost.csproj": {}
+  },
+  "projects": {
+    "/Users/Jack 1/Downloads/SimpleClient/SimpleHost/SimpleHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Jack 1/Downloads/SimpleClient/SimpleHost/SimpleHost.csproj",
+        "projectName": "SimpleHost",
+        "projectPath": "/Users/Jack 1/Downloads/SimpleClient/SimpleHost/SimpleHost.csproj",
+        "packagesPath": "/Users/Jack 1/.nuget/packages/",
+        "outputPath": "/Users/Jack 1/Downloads/SimpleClient/SimpleHost/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Jack 1/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Lidgren.Network.Core2": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

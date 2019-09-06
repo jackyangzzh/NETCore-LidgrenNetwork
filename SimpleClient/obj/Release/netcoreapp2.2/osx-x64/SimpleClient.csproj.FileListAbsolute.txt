@@ -1,0 +1,28 @@
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/libhostpolicy.dylib
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/libhostfxr.dylib
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.deps.json
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.runtimeconfig.json
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.runtimeconfig.dev.json
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.dll
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.pdb
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.csprojAssemblyReference.cache
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.csproj.CoreCompileInputs.cache
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.AssemblyInfoInputs.cache
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.AssemblyInfo.cs
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.dll
+/Users/Jack 1/Projects/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.pdb
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/libhostpolicy.dylib
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/libhostfxr.dylib
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.deps.json
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.runtimeconfig.json
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.runtimeconfig.dev.json
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.dll
+/Users/build/Downloads/SimpleClient/SimpleClient/bin/Release/netcoreapp2.2/osx-x64/SimpleClient.pdb
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.csprojAssemblyReference.cache
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.csproj.CoreCompileInputs.cache
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.AssemblyInfoInputs.cache
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.AssemblyInfo.cs
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.dll
+/Users/build/Downloads/SimpleClient/SimpleClient/obj/Release/netcoreapp2.2/osx-x64/SimpleClient.pdb
